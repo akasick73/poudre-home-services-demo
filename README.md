@@ -1,23 +1,14 @@
-# Poudre Home Services — Portfolio Concept
+# Poudre Home Services — Portfolio Concept V3
 
-Fictional Northern Colorado plumbing + HVAC website created as a portfolio demonstration. It is intentionally `noindex,nofollow` and does not include fake reviews, fake licenses, a fake physical address, or LocalBusiness schema that could imply a real operating company.
+Fictional Northern Colorado plumbing, heating and cooling website created as a portfolio demonstration of strategy, copy, conversion architecture, design and front-end development.
 
-## Research-informed design decisions
-- Mobile/urgent intent: prominent service request and urgent path.
-- Problem-first navigation: homeowner symptoms before equipment vocabulary.
-- Separate urgent repair vs planned replacement journeys.
-- Location clarity and dedicated service-area architecture.
-- Trust architecture reserved for verifiable proof on a real client build.
-- Question-led homeowner answer content for SEO/AEO expansion.
-- Interactive 60-second service router that routes rather than diagnoses.
-- Short service request form; demo submissions are disabled.
+V3 visual direction:
+- Deep navy + coral red (#FF4057) + white
+- Larger desktop navigation and stronger brand presence
+- Split photographic hero
+- Trust/claims bar and utility information
+- Symptom-led service navigation
+- Interactive 60-second service router
+- Service-area and homeowner-answer architecture
 
-## Files
-- index.html — main conversion homepage
-- plumbing.html — plumbing service hub
-- hvac.html — heating/cooling service hub
-- service-area.html — local architecture demo
-- styles.css — responsive design system
-- script.js — service router interaction
-
-Open `index.html` in a browser to review locally.
+This is a fictional portfolio concept, not an operating home-services company.
