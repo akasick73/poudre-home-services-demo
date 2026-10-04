@@ -12,3 +12,6 @@ V3 visual direction:
 - Service-area and homeowner-answer architecture
 
 This is a fictional portfolio concept, not an operating home-services company.
+
+## Current portfolio version
+Navy + gold visual direction with local hero image asset `hero-van.png`. Upload every file in this folder to the repository root. Cloudflare Pages remains connected to `main` and should deploy automatically after commit.
